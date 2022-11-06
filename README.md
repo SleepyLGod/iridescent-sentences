@@ -1,2 +1,5 @@
-# iridescent-sentences
-🌈 不同主题精美中文文案摘录 (Some cited iridescent sentences in Chinese)
+# Iridescent Sentences
+
+🌈 Some iridescent sentences in Chinese cited by me.
+
+
